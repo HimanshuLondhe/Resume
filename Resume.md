@@ -70,7 +70,7 @@ Issue XII, Dec 2018- Available at http://www.ijraset.com
 * MMCOE MINI-Hackathon 2K17, Winners, 4th January 2017
 * DEXTERITY 2K16, National Level Tech Fest (ORGANIZER)
 
-<embed src="Himanshu_Londhe_resume.pdf" type="application/pdf">
+<embed src="Resume/Himanshu_Londhe_resume.pdf" type="application/pdf">
 
-<object data="Himanshu_Londhe_resume.pdf" type="application/pdf" width="100%"> 
+<object data="Resume/Himanshu_Londhe_resume.pdf" type="application/pdf" width="100%"> 
 </object>
