@@ -1,7 +1,8 @@
 # HIMANSHU LONDHE
 
 londhehimanshu@gmail.com <br />
-[GitHub Profile](http://github.com/himanshulondhe)
+[GitHub Profile](http://github.com/himanshulondhe) <br />
+[LinkedIn Profile](https://www.linkedin.com/in/himanshu-londhe)
 
 # EDUCATION
 
