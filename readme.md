@@ -1,6 +1,6 @@
 # HIMANSHU LONDHE
 
-(410)-900-3097 | londhehimanshu@gmail.com <br />
+londhehimanshu@gmail.com <br />
 [GitHub Profile](http://github.com/himanshulondhe)
 
 # EDUCATION
