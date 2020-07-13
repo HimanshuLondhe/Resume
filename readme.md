@@ -54,7 +54,7 @@ concepts.**[ C++, sockets, mutexes, fault tolerance ]**
 
 Paper on Enhanced Support Vector Machine with Speed Up and Reduced Sensitivity accepted and published
 in International Journal for Research in Applied Science and Engineering Technology (IJRASET) Volume 6
-Issue XII, Dec 2018- Available at http://www.ijraset.com or [here](https://www.ijraset.com/fileserve.php?FID=19390)
+Issue XII, Dec 2018- Available at http://www.ijraset.com or [here.](https://www.ijraset.com/fileserve.php?FID=19390)
 
 
 # CERTIFICATIONS
